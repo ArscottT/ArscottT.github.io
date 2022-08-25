@@ -2,9 +2,9 @@
 title: TA
 email: your-email@domain.com
 url: https://www.thomasarscott.com
-description: "Site under cinstruction"
-keywords: "your keywords, separated by commas"
-skills: "Embedded hardware and firmware developer"
+description: "A portfolio of work from Thomas Arscott"
+keywords: "Portfolio Thomas Arscott"
+skills: "Embedded Hardware and Firmware developer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Dr. Henry Jekyll/ Thomas Arscott
   location: Location
   social: Around the Web
   credits: Credits
@@ -48,12 +48,13 @@ social:
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/arscottT
+    url: https://github.com/arscottT
+  - title: linkedin
+    url: https://www.linkedin.com/in/thomas-arscott-5b3184b8
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Berlin
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. This theme has then been modified for personal use by Thomas Arscott'
