@@ -37,7 +37,8 @@ h6 {
 }
 
 hr.star-light,
-hr.star-primary {
+hr.star-primary,
+hr.star-tertiary {
     margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
@@ -48,7 +49,8 @@ hr.star-primary {
 }
 
 hr.star-light:after,
-hr.star-primary:after {
+hr.star-primary:after,
+hr.star-tertiary:after {
     content: "\f005";
     display: inline-block;
     position: relative;
@@ -74,6 +76,15 @@ hr.star-primary {
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
+}
+
+hr.star-tertiary {
+    border-color: #{{ site.color.secondary }};
+}
+
+hr.star-tertiary:after {
+    color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.tertiary }};
 }
 
 .img-centered {
@@ -181,8 +192,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
+    background: #{{ site.color.tertiary }};
 }
 
 @media(max-width:767px) {
