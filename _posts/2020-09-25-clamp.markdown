@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2020-10-11
+img: c-lamp.jpg
+alt: Acrylic crystals with leds
+project-date: October 2020
+client: Personal
+category: Blinky
+description: This will be the description of the Clamp
+---
