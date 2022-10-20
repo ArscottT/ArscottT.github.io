@@ -7,5 +7,5 @@ alt: GBA SP insides
 project-date: October 2020
 client: Personal
 category: Mods
-description: This will be the description of the SP Modification
+description: Since I first had my Gameboy in my early years I have wanted to modify one. So I finally decided to take the plunge. I stripped down the SP to the base board, updated the screen, changed the case and cut a hole for a larger capacity battery. Even though it's not the most impressive project, I had so much fun and the end result something that I still use often
 ---
