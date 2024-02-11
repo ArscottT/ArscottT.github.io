@@ -4,8 +4,8 @@ modal-id: 4
 date: 2020-02-26
 img: m-lamp.jpg
 alt: Acrylic M with RGB leds
-project-date: October 2020
+project-date: Febuary 2020
 client: Personal
-category: Blinky
+categoris: hardware Blinky
 description: I wanted to create a project that anyone could build. Because while hosting an electronics Meetup, I noticed that we were having trouble retaining members over successive weeks. My idea was to create an interesting project that members could progress with over several weeks. That would teach them all of the basics of electronics, so I designed the M lamp.
 ---

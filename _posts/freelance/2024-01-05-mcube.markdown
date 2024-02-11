@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2024-01-5
+img: magic-box.jpg
+alt: Magic Cube
+project-date: January 2024
+client: Maranja
+categories: freelance
+description: I help bring to life the game prop ideas for Maranja Adventures. This is my favourite project, a magic cube that reacts to the touch of a wand. The LED rings and speaker lead you through the game based on a connection to an iPad.
+---

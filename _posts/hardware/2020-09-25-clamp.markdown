@@ -4,8 +4,8 @@ modal-id: 2
 date: 2020-09-25
 img: c-lamp.jpg
 alt: Acrylic crystals with leds
-project-date: February 2020
+project-date: September 2020
 client: Personal
-category: Blinky
+categories: hardware Blinky
 description: This was one of the most fun projects that I have done in a while, and I'm quite proud of the effect of the glowing acrylic. I used an ESP32 to connect to my local WIFI and set up a webpage that I can use to control the lamp. Which will later be connected to my smart home system in order to display notifications. The LEDs (in both the base and the crystals) are connected in parallel due to the low voltage requirements, and connected to a MOSFET for switching.
 ---

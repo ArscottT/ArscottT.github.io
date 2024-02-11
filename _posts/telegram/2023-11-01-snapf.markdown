@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 9
+date: 2022-11-01
+img: bot.png
+alt: Snap Finder
+project-date: November 2022
+client: Personal
+categories: telegram
+description: Keeping up with DAOs in the Crypto space can be challenging. So I built a Telegram Bot that checks daily for any new governance proposals. You can input which DAOs you would like to watch and it will message you once a day with the latest proposals.
+---

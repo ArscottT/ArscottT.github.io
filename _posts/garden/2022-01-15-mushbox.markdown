@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 8
 date: 2022-01-15
 img: mush-box.jpg
 alt: Mushroom growbox
 project-date: January 2022
 client: Personal
-category: Mushrooms
+categories: garden Mushrooms
 description: My friends recently started growing mushrooms and it just looked so cool! And after having eaten my own freshly grown Oyster mushrooms after the recent batch, I can tell you that it's definitely worth the effort! I wanted to make the whole box myself, so I needed to implement the humidity control and design the box. Which turned out to be an interesting process of trial and error, and several faulty misting devices.
 ---
