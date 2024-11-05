@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2024-11-1
-img: bera_community.png
+img: bera-community.png
 alt: Bera Community Dashboard
 project-date: November 2024
 client: Personal
