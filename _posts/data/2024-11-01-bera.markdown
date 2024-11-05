@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 10
+date: 2024-11-1
+img: bera_community.jpg
+alt: Bera Community Dashboard
+project-date: November 2024
+client: Personal
+categories: Blockchain Data-Analytics
+description: I wanted to know what the distribution of the Berachain NFT collections was. In order to better inform my decisions
+---

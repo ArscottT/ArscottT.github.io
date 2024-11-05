@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2023-05-5
+img: sun-lamp.jpg
+alt: Sun Lamp repair
+project-date: May 2023
+client: Personal
+categories: Repair
+description: I found a broken sun lamp on the side of the road, so I decided to repair it. It turns out that the main issue was water damage, and a shorted diode.
+---
